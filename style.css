@@ -1,0 +1,9 @@
+.strong {
+    font-weight: bold;
+    color: darkslateblue;
+    font-size:larger;
+}
+p {
+    text-decoration: overline;
+    text-indent:50px;
+}
